@@ -1,0 +1,3 @@
+[submodule "nuke_harding_python"]
+	path = nuke_harding_python
+	url = git@github.com:arcadeperfect/nuke_harding_python.git
